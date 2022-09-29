@@ -1,2 +1,10 @@
 node_modules
-.DS_Store
+vendor
+.bundle
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+*.gem
+
+#<removed/js>
+#<removed/css>
