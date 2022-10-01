@@ -1,5 +1,5 @@
 ---
-layout: committee
+layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
@@ -11,7 +11,7 @@ redirect_from:
 
 # Current International Spin Chemistry Committee
 
-Jan Behrends (Berlin, Germany) (Homepage)[https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-behrends/mitarbeiter/behrends/index.html]
+Jan Behrends (Berlin, Germany) [Homepage](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-behrends/mitarbeiter/behrends/index.html)
 
 Christoph Boehme (Salt Lake City, USA)
 
