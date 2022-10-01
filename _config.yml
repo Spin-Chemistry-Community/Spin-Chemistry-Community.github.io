@@ -60,7 +60,7 @@ menu:
     url:               /meetings/
   - title:             Committee
     url:               /committee/
-  - title: "Go to our Discord server"
+  - title: "Join our Discord server"
     url:   https://discord.io/spin-chemistry-community/
 
 # Add links to the footer.
