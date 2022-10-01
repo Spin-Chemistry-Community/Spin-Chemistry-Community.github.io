@@ -22,12 +22,15 @@ The 18th Spin Chemistry Meeting will be held in Kobe, Japan on 15th to 19th Sept
 
 ## 2022 - Evanston, USA
 
+
+
 ![evanston Screenshot](assets/img/meetings/SCM_2022.jpg){:.tail width="500" height="500" loading="lazy"}
 
 ## 2019 - St Petersburg, Russia
 
-![stpetersburg Screenshot](assets/img/meetings/SCM_2019.jpg){:.tail width="500" height="500" loading="lazy"}
+[Book of Abstracts](meetings/16 SCM_2019Book.pdf)
 
+![stpetersburg Screenshot](assets/img/meetings/SCM_2019.jpg){:.tail width="500" height="500" loading="lazy"}
 
 ## 2017 - Schluchsee, Germany
 
