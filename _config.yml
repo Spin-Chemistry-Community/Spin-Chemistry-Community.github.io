@@ -54,6 +54,8 @@ menu:
     url:               /example/
   - title:             Documentation
     url:               /docs/
+  - title:             Spin Chemistry Tutorials
+    url:               /tutorials/
   - title:             Spin Chemistry Meetings
     url:               /meetings/
   - title:             International Spin Chemistry Committee
