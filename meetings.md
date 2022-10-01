@@ -15,6 +15,10 @@ The inaugural Spin Chemistry Meeting, organised by the founder chairman of the
 International Spin Chemistry Committee, Professor Y. John I’Haya, was held in 
 Tomakomai, Hokkaido, Japan in 1991. Since then, meetings have taken place more-or-less biennially.
 
+Collected abstracts of the Spin Chemistry Meetings, 1991-2019 were provided by 
+[Prof. Ulrich Steiner](mailto:<ulrich.steiner@uni-konstanz.de>), University of Konstanz.
+Download a [zipped file]((meetings/SCM_Archiv_Full_Set.zip)) (936 MB) containing individual PDFs for all 16 meetings and a searchable EndNote library.
+
 ## 2024 - Kobe, Japan
 
 The 18th Spin Chemistry Meeting will be held in Kobe, Japan on 15th to 19th September, 2024.
@@ -109,7 +113,7 @@ The 18th Spin Chemistry Meeting will be held in Kobe, Japan on 15th to 19th Sept
 
 [Book of Abstracts](meetings/SCM_1994_abstracts.pdf)
 
-[chicago Screenshot](assets/img/meetings/SCM_1994.jpg){:.tail width="500" height="500" loading="lazy"}
+![chicago Screenshot](assets/img/meetings/SCM_1994.jpg){:.tail width="500" height="500" loading="lazy"}
 
 ## 1992 - Konstanz, Germany
 
