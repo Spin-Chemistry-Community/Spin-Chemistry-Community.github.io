@@ -206,6 +206,6 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
-discord:
-  name: Discord
-  icon: discord.jpg
+#discord:
+#  name: Discord
+ # icon: discord.jpg
