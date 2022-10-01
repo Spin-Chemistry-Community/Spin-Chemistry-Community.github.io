@@ -9,13 +9,13 @@ redirect_from:
   - /download/
 ---
 
-# Current International Spin Chemistry Committee
+# International Spin Chemistry Committee
 
 ## Jan Behrends (Berlin, Germany) 
 
 [Homepage](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-behrends/mitarbeiter/behrends/index.html)
 
-![behrends Screenshot](assets/img/committee/jan_behrends.jfif){:.tail width="920" height="260" loading="lazy"}
+![behrends Screenshot](assets/img/committee/jan_behrends.jfif){:.tail width="414" height="488" loading="lazy"}
 
 Prof. Dr. Jan Behrends
 {:.figcaption}
