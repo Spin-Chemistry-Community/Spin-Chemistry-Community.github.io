@@ -37,7 +37,7 @@ redirect_from:
 
 ## Malcolm Forbes (Bowling Green, USA)
 
-[HResearch Group](https://www.bgsu.edu/arts-and-sciences/chemistry/faculty/malcolm-forbes.html)
+[Research Group](https://www.bgsu.edu/arts-and-sciences/chemistry/faculty/malcolm-forbes.html)
 
 ![forbes Screenshot](assets/img/committee/malcolm_forbes.jpg){:.tail width="200" height="300" loading="lazy"}
 
@@ -73,7 +73,7 @@ redirect_from:
 
 ## Kiminori Maeda (Saitama, Japan)
 
-[Research Group](http://park.saitama-u.ac.jp/~maedalab/03Member.html)
+[Research Group](http://park.saitama-u.ac.jp/~maedalab/home.html)
 
 ![maeda Screenshot](assets/img/committee/kiminori_maeda.jfif){:.tail width="200" height="300" loading="lazy"}
 
