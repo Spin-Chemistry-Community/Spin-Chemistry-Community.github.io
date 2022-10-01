@@ -9,9 +9,7 @@ redirect_from:
   - /download/
 ---
 
-# About
-
-<!--author-->
+# Spin Chemistry Meetings
 
 ## Hydejack
 
