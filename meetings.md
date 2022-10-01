@@ -113,7 +113,7 @@ The 18th Spin Chemistry Meeting will be held in Kobe, Japan on 15th to 19th Sept
 
 [Book of Abstracts](meetings/SCM_1994_abstracts.pdf)
 
-![chicago Screenshot](assets/img/meetings/SCM_1994.jpg){:.tail width="500" height="500" loading="lazy"}
+![chicago Screenshot](assets/img/meetings/SCM_1994.jfif){:.tail width="500" height="500" loading="lazy"}
 
 ## 1992 - Konstanz, Germany
 
