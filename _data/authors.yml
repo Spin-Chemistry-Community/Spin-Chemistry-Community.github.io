@@ -8,11 +8,9 @@ Lewis:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+What is Spin Chemistry?
+
+Broadly defined, Spin Chemistry deals with the effects of electron and nuclear spins in particular, and magnetic interactions in general, on the rates and yields of chemical reactions. It is manifested as spin polarization in EPR and NMR spectra and the magnetic field dependence of chemical processes. Applications include studies of the mechanisms and kinetics of free radical and biradical reactions in solution, the energetics of photosynthetic electron transfer reactions, and various magnetokinetic effects, including possible biological effects of extremely low frequency and radiofrequency electromagnetic fields, the mechanisms by which animals can sense the Earth’s magnetic field for orientation and navigation, and the possibility of manipulating radical lifetimes so as to control the outcome of their reactions.
 
   # This photo will be used in the about section
   picture:
