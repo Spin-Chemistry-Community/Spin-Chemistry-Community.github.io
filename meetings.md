@@ -17,6 +17,7 @@ Tomakomai, Hokkaido, Japan in 1991. Since then, meetings have taken place more-o
 
 ## 2024 - Kobe, Japan
 
+The 18th Spin Chemistry Meeting will be held in Kobe, Japan on 15th to 19th September, 2024.
 [Join here](https://sites.google.com/gsuite.kobe-u.ac.jp/scm2024/home?authuser=0)
 
 ## 2022 - Evanston, USA
