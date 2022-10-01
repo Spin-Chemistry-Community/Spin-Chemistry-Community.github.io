@@ -11,6 +11,17 @@ redirect_from:
 
 # Spin Chemistry Tutorials
 
+This page is designed for those new to the field of spin chemistry.
+Links are provided to tutorials and text books both elementary and 
+advanced in nature.
+
+Please join our [Discord server](https://discord.io/spin-chemistry-community/) to ask questions with the people
+of all ranges of knowledge and experience.
+
+## Tutorials
+
+
+
 ## Recommended Reading
 
 In alphabetical order:
@@ -36,5 +47,5 @@ In alphabetical order:
 [A Schweiger and G Jeschke, Principles of Pulse Electron Paramagnetic Resonance, 2001.](https://global.oup.com/academic/product/principles-of-pulse-electron-paramagnetic-resonance-9780198506348?cc=jp&lang=en&)
 
 
-## Tutorials
+
 
