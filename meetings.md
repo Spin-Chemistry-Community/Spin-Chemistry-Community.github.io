@@ -21,6 +21,8 @@ Tomakomai, Hokkaido, Japan in 1991. Since then, meetings have taken place more-o
 
 ## 2022 - Evanston, USA
 
+![evanston Screenshot](assets/img/meetings/SCM photo evanston 2022.jpg){:.tail width="500" height="500" loading="lazy"}
+
 ## 2019 - St Petersburg, Russia
 
 ## 2017 - Schluchsee, Germany
