@@ -9,6 +9,8 @@ redirect_from:
   - /download/
 ---
 
+<!--author-->
+
 # International Spin Chemistry Committee
 
 ## Jan Behrends (Berlin, Germany) 

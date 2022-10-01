@@ -9,6 +9,8 @@ redirect_from:
   - /download/
 ---
 
+<!--author-->
+
 # Spin Chemistry Meetings
 
 The inaugural Spin Chemistry Meeting, organised by the founder chairman of the 
