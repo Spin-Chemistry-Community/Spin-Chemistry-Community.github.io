@@ -15,19 +15,19 @@ redirect_from:
 
 [Research Group](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-behrends/mitarbeiter/behrends/index.html)
 
-![behrends Screenshot](assets/img/committee/jan_behrends.jfif){:.tail width="250" height="300" loading="lazy"}
+![behrends Screenshot](assets/img/committee/jan_behrends.jfif){:.tail width="200" height="300" loading="lazy"}
 
 ## Christoph Boehme (Salt Lake City, USA) 
 
 [Research Group](https://web.physics.utah.edu/~boehmelab/)
 
-![boehme Screenshot](assets/img/committee/christoph_boehme.jfif){:.tail width="250" height="300" loading="lazy"}
+![boehme Screenshot](assets/img/committee/christoph_boehme.jfif){:.tail width="200" height="300" loading="lazy"}
 
 ## Silvia Cavagnero (Madison, USA) 
 
 [Research Group](https://cavagnero.chem.wisc.edu/)
 
-![cavagnero Screenshot](assets/img/committee/silvia_cavagnero.jfif){:.tail width="250" height="300" loading="lazy"}
+![cavagnero Screenshot](assets/img/committee/silvia_cavagnero.jfif){:.tail width="300" height="400" loading="lazy"}
 
 ## Matvey Fedin (Novosibirsk, Russia)
 
@@ -87,13 +87,13 @@ redirect_from:
 
 [Research Group](http://timmel.chem.ox.ac.uk/)
 
-![timmel Screenshot](assets/img/committee/christiane_timmel.jfif){:.tail width="200" height="300" loading="lazy"}
+![timmel Screenshot](assets/img/committee/christiane_timmel.jfif){:.tail width="300" height="400" loading="lazy"}
 
 ## Marilena di Valentin (Padua, Italy)
 
 [Research Group](https://wwwdisc.chimica.unipd.it/eprlab/index.php/marilena-di-valentin/)
 
-![valentin Screenshot](assets/img/committee/marilena_di_valentin.jpg){:.tail width="200" height="300" loading="lazy"}
+![valentin Screenshot](assets/img/committee/marilena_di_valentin.jpg){:.tail width="300" height="400" loading="lazy"}
 
 ## Michael Wasielewski (Evanston, USA)
 
