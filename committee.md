@@ -15,7 +15,7 @@ redirect_from:
 
 [Research Group](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-behrends/mitarbeiter/behrends/index.html)
 
-![behrends Screenshot](assets/img/committee/jan_behrends.jfif){:.tail width="414" height="488" loading="lazy"}
+![behrends Screenshot](assets/img/committee/jan_behrends.jfif){:.tail width="250" height="300" loading="lazy"}
 
 ## Christoph Boehme (Salt Lake City, USA) 
 
@@ -55,7 +55,7 @@ redirect_from:
 
 ## Leonid Kulik (Novosibirsk, Russia)
 
-[ResearchGate])https://www.researchgate.net/profile/Leonid-Kulik)
+[ResearchGate](https://www.researchgate.net/profile/Leonid-Kulik)
 
 ![kulik Screenshot](assets/img/committee/leonid_kulik.jpg){:.tail width="414" height="488" loading="lazy"}
 
@@ -69,13 +69,13 @@ redirect_from:
 
 [Research Group](https://www.cidnp.net/)
 
-![matysik Screenshot](assets/img/committee/jorg_matysik.jpg){:.tail width="414" height="488" loading="lazy"}
+![matysik Screenshot](assets/img/committee/jorg_matysik.jfif){:.tail width="414" height="488" loading="lazy"}
 
 ## Kiminori Maeda (Saitama, Japan)
 
 [Research Group](http://park.saitama-u.ac.jp/~maedalab/03Member.html)
 
-![maeda Screenshot](assets/img/committee/kiminori_maeda.jpg){:.tail width="414" height="488" loading="lazy"}
+![maeda Screenshot](assets/img/committee/kiminori_maeda.jfif){:.tail width="414" height="488" loading="lazy"}
 
 ## Ron Naaman (Rehovot, Israel)
 
