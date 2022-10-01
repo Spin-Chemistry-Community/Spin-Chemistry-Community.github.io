@@ -22,19 +22,23 @@ Prof. Dr. Jan Behrends
 
 ## Christoph Boehme (Salt Lake City, USA) 
 
-https://web.physics.utah.edu/~boehmelab/
+[Homepage](https://web.physics.utah.edu/~boehmelab/)
 
 ## Silvia Cavagnero (Madison, USA) 
 
-https://cavagnero.chem.wisc.edu/
+[Homepage](https://cavagnero.chem.wisc.edu/)
 
 ## Matvey Fedin (Novosibirsk, Russia)
 
-https://www.tomo.nsc.ru/homepages/LMR/Fedin/
+[Homepage](https://www.tomo.nsc.ru/homepages/LMR/Fedin/)
 
 ## Malcolm Forbes (Bowling Green, USA)
 
+[Homepage](https://www.bgsu.edu/arts-and-sciences/chemistry/faculty/malcolm-forbes.html)
+
 ## Peter Hore, Chairman (Oxford, UK)
+
+[Homepage](http://hore.chem.ox.ac.uk/index.shtml)
 
 ## Yasuhiro Kobori (Kobe, Japan)
 
