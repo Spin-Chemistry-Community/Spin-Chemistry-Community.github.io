@@ -11,18 +11,26 @@ redirect_from:
 
 # Current International Spin Chemistry Committee
 
-## Jan Behrends (Berlin, Germany) [Homepage](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-behrends/mitarbeiter/behrends/index.html)
+## Jan Behrends (Berlin, Germany) 
 
-![behrends Screenshot](assets/img/committee/jan_behrends.jfif){:.tail width="1920" height="1260" loading="lazy"}
+[Homepage](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-behrends/mitarbeiter/behrends/index.html)
 
-Prof. Dr. Jan Behrends `behrends`.
+![behrends Screenshot](assets/img/committee/jan_behrends.jfif){:.tail width="920" height="260" loading="lazy"}
+
+Prof. Dr. Jan Behrends
 {:.figcaption}
 
-## Christoph Boehme (Salt Lake City, USA) https://web.physics.utah.edu/~boehmelab/
+## Christoph Boehme (Salt Lake City, USA) 
 
-## Silvia Cavagnero (Madison, USA)
+https://web.physics.utah.edu/~boehmelab/
+
+## Silvia Cavagnero (Madison, USA) 
+
+https://cavagnero.chem.wisc.edu/
 
 ## Matvey Fedin (Novosibirsk, Russia)
+
+https://www.tomo.nsc.ru/homepages/LMR/Fedin/
 
 ## Malcolm Forbes (Bowling Green, USA)
 
