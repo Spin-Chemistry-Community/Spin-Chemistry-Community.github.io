@@ -11,35 +11,40 @@ redirect_from:
 
 # Current International Spin Chemistry Committee
 
-Jan Behrends (Berlin, Germany) [Homepage](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-behrends/mitarbeiter/behrends/index.html)
+## Jan Behrends (Berlin, Germany) [Homepage](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-behrends/mitarbeiter/behrends/index.html)
 
-Christoph Boehme (Salt Lake City, USA)
+![behrends Screenshot](assets/img/committee/jan_behrends.jfif){:.tail width="1920" height="1260" loading="lazy"}
 
-Silvia Cavagnero (Madison, USA)
+Prof. Dr. Jan Behrends `behrends`.
+{:.figcaption}
 
-Matvey Fedin (Novosibirsk, Russia)
+## Christoph Boehme (Salt Lake City, USA) https://web.physics.utah.edu/~boehmelab/
 
-Malcolm Forbes (Bowling Green, USA)
+## Silvia Cavagnero (Madison, USA)
 
-Peter Hore, Chairman (Oxford, UK)
+## Matvey Fedin (Novosibirsk, Russia)
 
-Yasuhiro Kobori (Kobe, Japan)
+## Malcolm Forbes (Bowling Green, USA)
 
-Leonid Kulik (Novosibirsk, Russia)
+## Peter Hore, Chairman (Oxford, UK)
 
-Dane McCamey (Sydney, Australia)
+## Yasuhiro Kobori (Kobe, Japan)
 
-Jörg Matysik (Leipzig, Germany)
+## Leonid Kulik (Novosibirsk, Russia)
 
-Kiminori Maeda (Saitama, Japan)
+## Dane McCamey (Sydney, Australia)
 
-Ron Naaman (Rehovot, Israel)
+## Jörg Matysik (Leipzig, Germany)
 
-Christiane Timmel (Oxford, UK)
+## Kiminori Maeda (Saitama, Japan)
 
-Marilena di Valentin (Padua, Italy)
+## Ron Naaman (Rehovot, Israel)
 
-Michael Wasielewski (Evanston, USA)
+## Christiane Timmel (Oxford, UK)
 
-Stefan Weber (Freiburg, Germany)
+## Marilena di Valentin (Padua, Italy)
+
+## Michael Wasielewski (Evanston, USA)
+
+## Stefan Weber (Freiburg, Germany)
 
