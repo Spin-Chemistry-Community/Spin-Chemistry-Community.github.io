@@ -17,7 +17,7 @@ Tomakomai, Hokkaido, Japan in 1991. Since then, meetings have taken place more-o
 
 Collected abstracts of the Spin Chemistry Meetings, 1991-2019 were provided by 
 [Prof. Ulrich Steiner](mailto:<ulrich.steiner@uni-konstanz.de>), University of Konstanz.
-Download a [zipped file]((meetings/SCM_Archiv_Full_Set.zip)) (936 MB) containing individual PDFs for all 16 meetings and a searchable EndNote library.
+
 
 ## 2024 - Kobe, Japan
 
