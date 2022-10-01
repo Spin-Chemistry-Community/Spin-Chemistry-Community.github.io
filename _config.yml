@@ -60,8 +60,8 @@ menu:
     url:               /meetings/
   - title:             International Spin Chemistry Committee
     url:               /committee/
-  - title: "@Spin Chemistry Community Discord"
-    url:   https://discord.io/spin-chemistry-community/
+  #- title: "@Spin Chemistry Community Discord"
+  #  url:   https://discord.io/spin-chemistry-community/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
