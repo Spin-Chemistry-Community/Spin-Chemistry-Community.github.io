@@ -16,7 +16,7 @@ International Spin Chemistry Committee, Professor Y. John I’Haya, was held in
 Tomakomai, Hokkaido, Japan in 1991. Since then, meetings have taken place more-or-less biennially.
 
 Collected abstracts of the Spin Chemistry Meetings, 1991-2019 were provided by 
-[Prof. Ulrich Steiner](mailto:<ulrich.steiner@uni-konstanz.de>), University of Konstanz.
+[Prof. Ulrich Steiner](mailto:ulrich.steiner@uni-konstanz.de), University of Konstanz.
 
 
 ## 2024 - Kobe, Japan
