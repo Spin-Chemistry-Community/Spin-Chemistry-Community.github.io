@@ -1,12 +1,12 @@
 ---
-layout: about
-image: /assets/img/blog/hydejack-9.jpg
+layout: post
+title: Introducing Hydejack 9
+image: 
+  path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
-hide_description: true
-redirect_from:
-  - /download/
+  Version 9 is the most complete version of Hydejack yet.
+  Modernized design, big headlines, and big new features.
+sitemap: false
 ---
 
 # About
