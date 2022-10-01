@@ -50,15 +50,15 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             Spin Chemistry Tutorials
+  #- title:             Example
+   # url:               /example/
+  #- title:             Documentation
+   # url:               /docs/
+  - title:             Tutorials
     url:               /tutorials/
-  - title:             Spin Chemistry Meetings
+  - title:             Meetings
     url:               /meetings/
-  - title:             International Spin Chemistry Committee
+  - title:             Committee
     url:               /committee/
   - title: "Go to our Discord server"
     url:   https://discord.io/spin-chemistry-community/
