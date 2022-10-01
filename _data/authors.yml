@@ -22,8 +22,9 @@ Lewis:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
+    discord:         https://discord.io/spin-chemistry-community/
+    #twitter:         <username>
+    #github:          <username>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
