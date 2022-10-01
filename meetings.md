@@ -15,6 +15,10 @@ The inaugural Spin Chemistry Meeting, organised by the founder chairman of the
 International Spin Chemistry Committee, Professor Y. John I’Haya, was held in 
 Tomakomai, Hokkaido, Japan in 1991. Since then, meetings have taken place more-or-less biennially.
 
+## 2024 - Kobe, Japan
+
+[Join here](https://sites.google.com/gsuite.kobe-u.ac.jp/scm2024/home?authuser=0)
+
 ## 2022 - Evanston, USA
 
 ## 2019 - St Petersburg, Russia
