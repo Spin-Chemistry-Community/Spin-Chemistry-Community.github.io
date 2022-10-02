@@ -21,7 +21,7 @@ Broadly defined, Spin Chemistry deals with the effects of electron and nuclear s
 
 ## Join us
 
-You can join our [Discord server](https://discord.io/spin-chemistry-community/)
+Please join our [Discord server](https://discord.io/spin-chemistry-community/).
 
 
 
