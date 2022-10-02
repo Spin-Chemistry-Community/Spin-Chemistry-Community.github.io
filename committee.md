@@ -123,7 +123,7 @@ Art van der Est (St. Catharines, Canada)
 
 Günter Grampp (Graz, Austria)
 
-Y.John I'Haya, Founder Chairman (Tokyo, Japan)
+Y John I'Haya, Founder Chairman (Tokyo, Japan)
 
 Hisaharu Hayashi (Wako, Japan)
 
