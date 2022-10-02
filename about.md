@@ -77,7 +77,7 @@ Please join our [Discord server](https://discord.io/spin-chemistry-community/) t
 
        <td style="text-align:center;  width: 400px">
          <form action="https://spinchemistrycommunity.pythonanywhere.com/spinchemistrycommunity_signup" method="POST">
-          Sign up with your email address for the latest publications and job vacancies:
+          Sign up with your email for the latest publications and job vacancies:
                <input type="email" name="email_address">
                <input type="hidden" name="signup_page" value="https://spinchemistrycommunity.pythonanywhere.com/static/thanks.html" /> <!--value="http://spin-chemistry-community.github.io/"-->
                <input type="submit" value="Sign up">
