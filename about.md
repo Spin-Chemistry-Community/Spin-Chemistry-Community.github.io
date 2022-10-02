@@ -37,6 +37,45 @@ outcome of their reactions.
 
 You can join our [Discord server](https://discord.io/spin-chemistry-community/)
 
+ <style>
+ @media only screen and (max-width: 40em) {
+        thead th:not(:first-child) {
+            display: none;
+        }
+
+        td, th {
+            display: block;
+        }
+
+        td[data-th]:before  {
+            content: attr(data-th);
+            }
+        }
+
+
+         body {font-family:arial;
+          line-height:1.15;}
+
+         input[type=email], select {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;}
+
+         input[type=submit] {
+            width: 50%;
+            background-color: #008CBA;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;}
+    </style>
+
 <div class="container">
     <table border='5'>
      <tr><td>
