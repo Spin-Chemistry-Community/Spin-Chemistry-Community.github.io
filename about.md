@@ -111,4 +111,4 @@ You can join our [Discord server](https://discord.io/spin-chemistry-community/)
 	
 	
 
-Please email [Lewis M Antill](mailto:lewismantill@gmail.com) items for inclusion on this website.
+Website created and maintained by Lewis M Antill. Please [email](mailto:lewismantill@gmail.com) items for inclusion on this website.
