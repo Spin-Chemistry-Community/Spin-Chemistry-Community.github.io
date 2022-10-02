@@ -41,8 +41,8 @@ logo:                  /assets/img/spin2.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:              <Lewis M> <Antill>
-  email:             <lewismantill@gmail.com>
+  name:              Lewis M Antill
+  email:             lewismantill@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
