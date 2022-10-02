@@ -12,23 +12,54 @@ redirect_from:
 # Spin Chemistry Tutorials
 
 This page is designed for those new to the field of spin chemistry.
-Links are provided to tutorials and text books both elementary and 
-advanced in nature.
 
-Please join our [Discord server](https://discord.io/spin-chemistry-community/) to ask questions with the people
-of all ranges of knowledge and experience.
+Please join our [Discord server](https://discord.io/spin-chemistry-community/) to ask questions and discuss topics with people
+from the field of spin chemistry.
 
 ## Tutorials
 
 
+### YouTube
 
-## Recommended Reading
+Spin dynamics tutorials by [Ilia Kuprov](https://www.youtube.com/user/kuprov/featured).
 
-In alphabetical order:
+EPR tutorials by [Ranjan Das](https://youtube.com/playlist?list=PLbMVogVj5nJTdC-wb4DGVL3o3QKPDE_CU).
+
+[Global NMR Discussion Meetings](https://www.youtube.com/c/GlobalNMRDiscussionMeetings/videos)
+
+[EasySpin Academy](https://www.youtube.com/channel/UCO02s2WcRHHm5i4HNmUjoMA/videos)
+
+Tutorial by Peter J Hore on the radical pair mechanism of magnetoreception at the [FENS Hertie Winter School 2017](https://www.youtube.com/watch?v=FytxLiHlah4).
+
+
+### Review Articles
+
+In chronological order:
+
+[U E Steiner and T Ulrich, Magnetic field effects in chemical kinetics and related phenomena, Chemical Reviews 1989, 89, 1, 51–147.](https://pubs.acs.org/doi/abs/10.1021/cr00091a003)
+
+[J R Woodward, Radical Pairs in Solution, Progress in Reaction Kinetics and Mechanism. Vol. 27, pp165–207. 2002.](https://journals.sagepub.com/doi/abs/10.3184/007967402103165388)
+
+[P J Hore and H Mouritsen, The Radical-Pair Mechanism of Magnetoreception, Annual Review of Biophysics 2016 45:1, 299-344.](https://www.annualreviews.org/doi/10.1146/annurev-biophys-032116-094545)
+
+[K L Ivanov, A Wagenpfah, C Deibe and J Matysik, Spin-chemistry concepts for spintronics scientists, Beilstein Journal of Nanotechnology, 2017, 8, 1427–1445.](https://www.beilstein-journals.org/bjnano/articles/8/143)
+
+[J Matysik, Y Ding, Y Kim, P Kurle, A Yurkovskaya, K Ivanov and A Alia, Photo-CIDNP in Solid State, Applied Magnetic Resonance volume 53, pages521–537 (2022).](https://link.springer.com/article/10.1007/s00723-021-01322-5)
+
+
+## Textbooks
+
+In alphabetical (author) order:
 
 [G Bodenhausen, R Ernst, and A Wokaun, Principles of Nuclear Magnetic Resonance in One and Two Dimensions, 1997.](https://global.oup.com/academic/product/principles-of-nuclear-magnetic-resonance-in-one-and-two-dimensions-9780198556473?cc=jp&lang=en&)
 
+[A L Buchachenko and E L Frankevich, Chemical Generation and Reception of Radio-and Microwaves, 1993.](https://www.wiley.com/en-us/Chemical+Generation+and+Reception+of+Radio+and+Microwaves-p-9780471188599)
+
 [A Carrington and A D McLachlan, Introduction to Magnetic Resonance: With Applications to Chemistry and Chemical Physics, 1967.](https://www.amazon.com/Introduction-Magnetic-Resonance-Alan-Carrington/dp/0063561077)
+
+[M D E Forbes, Carbon-Centered Free Radicals and Radical Cations: Structure, Reactivity, and Dynamics, 2009.](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470584118)
+
+[D Gamliel and H Levanon, Stochastic Processes in Magnetic Resonance, 1995.](https://www.worldscientific.com/worldscibooks/10.1142/2717#t=aboutBook)
 
 [H Hayashi, Introduction to Dynamic Spin Chemistry: Magnetic Field Effects on Chemical and Biochemical Reactions, 2004.](https://www.amazon.com/Introduction-Dynamic-Spin-Chemistry-Biochemical-ebook/dp/B005A2P9CM)
 
