@@ -107,4 +107,4 @@ You can join our [Discord server](https://discord.io/spin-chemistry-community/)
     </table>
     </div>
 
-
+Please email [Lewis M Antill](mailto:lewismantill@gmail.com) items for inclusion on this website.
