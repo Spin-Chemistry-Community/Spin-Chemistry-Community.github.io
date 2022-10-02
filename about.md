@@ -37,6 +37,8 @@ outcome of their reactions.
 
 You can join our [Discord server](https://discord.io/spin-chemistry-community/)
 
+
+
  <style>
  @media only screen and (max-width: 40em) {
         thead th:not(:first-child) {
@@ -106,5 +108,7 @@ You can join our [Discord server](https://discord.io/spin-chemistry-community/)
      </td></tr>
     </table>
     </div>
+	
+	
 
 Please email [Lewis M Antill](mailto:lewismantill@gmail.com) items for inclusion on this website.
