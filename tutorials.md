@@ -13,8 +13,7 @@ redirect_from:
 
 This page is designed for those new to the field of spin chemistry.
 
-Please join our [Discord server](https://discord.io/spin-chemistry-community/) to ask questions and discuss topics with people
-from the field of spin chemistry.
+Please join our [Discord server](https://discord.io/spin-chemistry-community/) to ask questions and discuss topics with people from the field of spin chemistry.
 
 ## Tutorials
 
@@ -47,7 +46,7 @@ In chronological order:
 [J Matysik, Y Ding, Y Kim, P Kurle, A Yurkovskaya, K Ivanov and A Alia, Photo-CIDNP in Solid State, Applied Magnetic Resonance volume 53, 521–537 (2022).](https://link.springer.com/article/10.1007/s00723-021-01322-5)
 
 
-## Textbooks
+### Books
 
 In alphabetical (author) order:
 
