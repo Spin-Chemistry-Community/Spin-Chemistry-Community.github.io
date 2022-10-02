@@ -18,7 +18,6 @@ Tomakomai, Hokkaido, Japan in 1991. Since then, meetings have taken place more-o
 Collected abstracts of the Spin Chemistry Meetings, 1991-2019 were provided by 
 [Prof. Ulrich Steiner](mailto:ulrich.steiner@uni-konstanz.de), University of Konstanz.
 
-
 ## 2024 - Kobe, Japan
 
 The 18th Spin Chemistry Meeting will be held in Kobe, Japan on 15th to 19th September, 2024.
@@ -26,8 +25,6 @@ The 18th Spin Chemistry Meeting will be held in Kobe, Japan on 15th to 19th Sept
 [Join here](https://sites.google.com/gsuite.kobe-u.ac.jp/scm2024/home?authuser=0)
 
 ## 2022 - Evanston, USA
-
-
 
 ![evanston Screenshot](assets/img/meetings/SCM_2022.jpg){:.tail width="500" height="500" loading="lazy"}
 

@@ -35,13 +35,13 @@ redirect_from:
 
 ![fedin Screenshot](assets/img/committee/matvey_fedin.jpg){:.tail width="200" height="300" loading="lazy"}
 
-## Malcolm Forbes (Bowling Green, USA)
+## Malcolm D E Forbes (Bowling Green, USA)
 
 [Research Group](https://www.bgsu.edu/arts-and-sciences/chemistry/faculty/malcolm-forbes.html)
 
 ![forbes Screenshot](assets/img/committee/malcolm_forbes.jpg){:.tail width="200" height="300" loading="lazy"}
 
-## Peter Hore, Chairman (Oxford, UK)
+## Peter J Hore, Chairman (Oxford, UK)
 
 [Research Group](http://hore.chem.ox.ac.uk/index.shtml)
 
@@ -106,3 +106,59 @@ redirect_from:
 [Research Group](https://www.radicals.uni-freiburg.de/de/ak/weber)
 
 ![weber Screenshot](assets/img/committee/stefan_weber.jfif){:.tail width="200" height="300" loading="lazy"}
+
+## Previous committee members
+
+Frank J Adrian (Olney, USA)
+
+Elena G Bagryanskaya (Novosibirsk, Russia)
+
+Samita Basu (Kolkata, India)
+
+Klaus-Peter Dinse (Darmstadt, Germany)
+
+Sergei A Dzuba (Novosibirsk, Russia)
+
+Art van der Est (St. Catharines, Canada)
+
+Günter Grampp (Graz, Austria)
+
+Y.John I'Haya, Founder Chairman (Tokyo, Japan)
+
+Hisaharu Hayashi (Wako, Japan)
+
+Arnold Hoff (Leiden, Netherlands)
+
+Konstantin Ivanov (Novosibirsk, Russia)
+
+Gerd Kothe (Freiburg, Germany)
+
+Haim Levanon (Jerusalem, Israel)
+
+Keith A Mclauchlan (Oxford, UK)
+
+Yuri N Molin (Novosibirsk, Russia)
+
+Hisao Murai (Shizuoka, Japan)
+
+James R Norris (Chicago, USA)
+
+Henning Paul (Zürich, Switzerland)
+
+Ulrich E Steiner, Chairman (Konstanz, Germany)
+
+Renad Z Sagdeev (Novosibirsk, Russia)
+
+Yoshifumi Tanimoto (Hiroshima, Japan)
+
+Shozo Tero-Kubota (Sendai, Japan)
+
+Daniel P Weitekamp (Pasadena, USA)
+
+Markus Wohlgenannt (Iowa City, USA)
+
+Seigo Yamauchi (Sendai, Japan)
+
+
+
+
