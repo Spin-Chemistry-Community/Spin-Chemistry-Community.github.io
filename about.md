@@ -37,6 +37,6 @@ outcome of their reactions.
 
 You can join our [Discord server](https://discord.io/spin-chemistry-community/)
 
-or join our mailing list for publication updates and job vacancies.
+or join our mailing list for updates on publications and job vacancies.
 
 
