@@ -38,13 +38,13 @@ In chronological order:
 
 [U E Steiner and T Ulrich, Magnetic field effects in chemical kinetics and related phenomena, Chemical Reviews 1989, 89, 1, 51–147.](https://pubs.acs.org/doi/abs/10.1021/cr00091a003)
 
-[J R Woodward, Radical Pairs in Solution, Progress in Reaction Kinetics and Mechanism. Vol. 27, pp165–207. 2002.](https://journals.sagepub.com/doi/abs/10.3184/007967402103165388)
+[J R Woodward, Radical Pairs in Solution, Progress in Reaction Kinetics and Mechanism. 27, 165–207. 2002.](https://journals.sagepub.com/doi/abs/10.3184/007967402103165388)
 
 [P J Hore and H Mouritsen, The Radical-Pair Mechanism of Magnetoreception, Annual Review of Biophysics 2016 45:1, 299-344.](https://www.annualreviews.org/doi/10.1146/annurev-biophys-032116-094545)
 
 [K L Ivanov, A Wagenpfah, C Deibe and J Matysik, Spin-chemistry concepts for spintronics scientists, Beilstein Journal of Nanotechnology, 2017, 8, 1427–1445.](https://www.beilstein-journals.org/bjnano/articles/8/143)
 
-[J Matysik, Y Ding, Y Kim, P Kurle, A Yurkovskaya, K Ivanov and A Alia, Photo-CIDNP in Solid State, Applied Magnetic Resonance volume 53, pages521–537 (2022).](https://link.springer.com/article/10.1007/s00723-021-01322-5)
+[J Matysik, Y Ding, Y Kim, P Kurle, A Yurkovskaya, K Ivanov and A Alia, Photo-CIDNP in Solid State, Applied Magnetic Resonance volume 53, 521–537 (2022).](https://link.springer.com/article/10.1007/s00723-021-01322-5)
 
 
 ## Textbooks

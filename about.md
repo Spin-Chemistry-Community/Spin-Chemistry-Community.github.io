@@ -32,3 +32,11 @@ by which animals can sense the Earth’s magnetic field for
 orientation and navigation, and the possibility of 
 manipulating radical lifetimes so as to control the 
 outcome of their reactions.
+
+## Join us
+
+You can join our [Discord server](https://discord.io/spin-chemistry-community/)
+
+or join our mailing list for publication updates and job vacancies.
+
+
