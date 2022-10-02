@@ -37,6 +37,35 @@ outcome of their reactions.
 
 You can join our [Discord server](https://discord.io/spin-chemistry-community/)
 
-or join our mailing list for updates on publications and job vacancies.
+<div class="container">
+    <table border='5'>
+     <tr><td>
+      <table border='0' bgcolor="#e7e7e7">
+       <tr>
+        <td >
+        <img src="https://spin-chemistry-community.github.io/assets/img/spin2.jpg"
+        alt="Welcome to the Spin Chemistry Community mailing list" title="Welcome to the Spin Chemistry Community mailing list"
+        style="padding:0px; border:0px; width:50%; height: 50%;" />
+       </td>
+
+       <td style="text-align:center;  width: 400px">
+         <form action="https://spinchemistrycommunity.pythonanywhere.com/spinchemistrycommunity_signup" method="POST">
+          Hi, sign up for the latest publications and job vacancies:
+               <input type="email" name="email_address">
+               <input type="hidden" name="signup_page" value="https://spinchemistrycommunity.pythonanywhere.com/static/thanks.html" /> <!--value="http://spin-chemistry-community.github.io/"-->
+               <input type="submit" value="Sign up">
+               <BR>Thanks for your interest in the Spin Chemistry Community
+
+           </form>
+       </td>
+            <td align='right'>
+                <img src="https://spin-chemistry-community.github.io/assets/img/spin2.jpg" alt="Welcome to the Spin Chemistry Community mailing list"
+                title="Welcome to the Spin Chemistry Community mailing list" style="padding:0px; border:0px; width:50%; height: 50%;" />
+           </td>
+      </tr>
+      </table>
+     </td></tr>
+    </table>
+    </div>
 
 
