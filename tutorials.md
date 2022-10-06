@@ -9,6 +9,9 @@ redirect_from:
   - /download/
 ---
 
+- Table of Contents
+{:toc .large-only}
+
 # Spin Chemistry Tutorials
 
 This page is designed for those new to the field of spin chemistry.
