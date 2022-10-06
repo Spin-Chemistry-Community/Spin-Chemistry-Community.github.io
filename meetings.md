@@ -8,6 +8,8 @@ hide_description: true
 redirect_from:
   - /download/
 ---
+- Table of Contents
+{:toc .large-only}
 
 # Spin Chemistry Meetings
 
