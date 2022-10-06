@@ -2,6 +2,9 @@
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
 layout: list
 
+- Table of Contents
+{:toc .large-only}
+
 # The title of the tag's page.
 title: Announcements
 
