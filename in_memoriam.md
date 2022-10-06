@@ -29,7 +29,7 @@ redirect_from:
 
 30 April 1939 - 22 April 2002
 
-![Hoff Screenshot](assets/img/committee/arnold_hoff.jpg){:.tail width="200" height="300" loading="lazy"}
+![Hoff Screenshot](assets/img/in_memoriam/arnold_hoff.jpg){:.tail width="200" height="300" loading="lazy"}
 
 [Structure-Mechanism in Photosynthesis: Dedicated to the Memory of Professor Arnold Jan Hoff](https://www.sciencedirect.com/journal/chemical-physics/vol/294/issue/3)
 
