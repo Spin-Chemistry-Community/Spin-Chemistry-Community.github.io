@@ -129,9 +129,9 @@ Y John I'Haya, Founder Chairman (Tokyo, Japan)
 
 Hisaharu Hayashi (Wako, Japan)
 
-Arnold Hoff (Leiden, Netherlands)
+Arnold J Hoff (Leiden, Netherlands)
 
-Konstantin Ivanov (Novosibirsk, Russia)
+Konstantin L Ivanov (Novosibirsk, Russia)
 
 Gerd Kothe (Freiburg, Germany)
 
