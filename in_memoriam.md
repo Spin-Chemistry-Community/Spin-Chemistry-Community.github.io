@@ -48,7 +48,7 @@ redirect_from:
 
 1948 – 26 September 2012
 
-![Yamauchi Screenshot](assets/img/in_memoriam/seigo_yamauchi.jfif){:.tail width="200" height="300" loading="lazy"}
+![Yamauchi Screenshot](assets/img/in_memoriam/seigo_yamauchi.jpg){:.tail width="200" height="300" loading="lazy"}
 
 [In Memory of Seigo Yamauchi](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ieprs.org/wp-content/uploads/2020/06/Vol22_4.pdf)
 
