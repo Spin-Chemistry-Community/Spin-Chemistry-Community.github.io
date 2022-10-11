@@ -17,8 +17,6 @@ This page is designed for those new to the field of spin chemistry.
 
 Please join our [Discord server](https://discord.io/spin-chemistry-community/) to ask questions and discuss topics with people from the field of spin chemistry.
 
-## Tutorials
-
 
 ### Books
 
