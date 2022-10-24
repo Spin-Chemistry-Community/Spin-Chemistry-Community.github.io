@@ -92,7 +92,7 @@ The 18th Spin Chemistry Meeting will be held in Kobe, Japan on 15th to 19th Sept
 
 [Book of Abstracts](meetings/SCM_2003_abstracts.pdf)
 
-![chapelhill Screenshot](assets/img/meetings/SCM_2003.jpg){:.tail width="500" height="500" loading="lazy"}
+![chapelhill Screenshot](assets/img/meetings/SCM_2003.tif){:.tail width="500" height="500" loading="lazy"}
 
 ## 2001 - Tokyo, Japan
 
