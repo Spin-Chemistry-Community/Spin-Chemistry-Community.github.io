@@ -55,7 +55,9 @@ In alphabetical (author) order:
 
 [J J Sakurai and J Napolitano, Modern Quantum Mechanics, 3rd Edition, 2020.](https://www.amazon.com/Modern-Quantum-Mechanics-J-Sakurai/dp/1108473229)
 
-[K.M. Salikhov, Yu. N. Molin, R. Z. Sagdeev, A. L. Buchachenko, Spin Polarization and Magnetic Effects in Radical Reactions, Academic Kiado Budapest, Elsevier Amsterdam, p.419, (1984).](https://www.amazon.com/Polarization-Magnetic-Reactions-Theoretical-Chemistry/dp/044499677X)
+[K M Salikhov, Magnetic Isotope Effect in Radical Reactions. Springer Verlag, Wien New-York, 1996.](https://www.amazon.com/Magnetic-Isotope-Effect-Radical-Reactions/dp/3211827846)
+
+[K M Salikhov, Yu N Molin, R Z Sagdeev, A L Buchachenko, Spin Polarization and Magnetic Effects in Radical Reactions, Academic Kiado Budapest, Elsevier Amsterdam, 1984.](https://www.amazon.com/Polarization-Magnetic-Reactions-Theoretical-Chemistry/dp/044499677X)
 
 [A Schweiger and G Jeschke, Principles of Pulse Electron Paramagnetic Resonance, 2001.](https://global.oup.com/academic/product/principles-of-pulse-electron-paramagnetic-resonance-9780198506348?cc=jp&lang=en&)
 
