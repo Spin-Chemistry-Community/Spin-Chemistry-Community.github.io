@@ -28,8 +28,6 @@ We have a vacancy for a graduate student to work on cryptochrome-based magnetore
 
 Please see [here](https://uol.de/stellen?stelle=69439) for further details. Closing date for applications: 31 March 2023.
 
-Informal enquiries can be sent to: [ilia.solovyov@uni-oldenburg.de](ilia.solovyov@uni-oldenburg.de) and/or [peter.hore@chem.ox.ac.uk](peter.hore@chem.ox.ac.uk).
-
-
+Informal enquiries can be sent to: [ilia.solovyov@uni-oldenburg.de](mailto:ilia.solovyov@uni-oldenburg.de) and/or [peter.hore@chem.ox.ac.uk](mailto:peter.hore@chem.ox.ac.uk).
 
 
