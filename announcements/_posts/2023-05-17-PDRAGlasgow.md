@@ -26,7 +26,7 @@ Postdoctoral Position in Molecular Spin-Optical Dynamics based at the University
 
 The [Quantum Optospintronics Group](https://www.gla.ac.uk/schools/engineering/research/divisions/ene/researchthemes/micronanotechnology/quantumoptospintronics/) at the University of Glasgow is looking for a researcher to explore molecular spin systems for next-generation optoelectronic/photonic materials and spin-enhanced sensing.
 
-For further details see: https://www.jobs.ac.uk/job/CZV701
+For further details see: [https://www.jobs.ac.uk/job/CZV701](https://www.jobs.ac.uk/job/CZV701)
 
 Closing date: 13th June 2023
 
