@@ -23,6 +23,12 @@ redirect_from:
 
 # International Spin Chemistry Committee
 
+## Lewis M Antill (S. Korea) 
+
+[Research Group](https://lmantill.github.io/)
+
+![antill Screenshot](assets/img/committee/lewis_antill.jpg){:.tail width="200" height="300" loading="lazy"}
+
 ## Jan Behrends (Berlin, Germany) 
 
 [Research Group](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-behrends/mitarbeiter/behrends/index.html)
