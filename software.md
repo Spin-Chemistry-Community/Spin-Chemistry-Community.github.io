@@ -28,26 +28,6 @@ This page is designed for those new and old to the field of spin chemistry.
 
 Please join our [Discord server](https://discord.io/spin-chemistry-community/) to ask questions and discuss topics with people from the field of spin chemistry.
 
-
-### EPR / NMR
-
-In alphabetical order:
-
-#### EasySpin 
-
-Open-source toolbox in the proprietary software MATLAB.
-Useful for fitting and simulation EPR spectra.
-
-[EasySpin Website](https://easyspin.org/)
-
-#### Spinach
-
-Open-source toolbox in the propietary software MATLAB.
-Useful for simulating EPR and NMR spectra.
-
-[Spinach Website](https://spindynamics.org/?page_id=12)
-
-
 ### Specific to Radical Pairs
 
 In alphabetical order:
@@ -68,5 +48,21 @@ The software offers classical, semi-classical, and quantum simulation methodolog
 [RadicalPy Website](https://radicalpy.readthedocs.io/en/latest/)
 
 
+### EPR / NMR
 
+In alphabetical order:
+
+#### EasySpin 
+
+Open-source toolbox in the proprietary software MATLAB.
+Useful for fitting and simulation EPR spectra.
+
+[EasySpin Website](https://easyspin.org/)
+
+#### Spinach
+
+Open-source toolbox in the propietary software MATLAB.
+Useful for simulating EPR and NMR spectra.
+
+[Spinach Website](https://spindynamics.org/?page_id=12)
 
