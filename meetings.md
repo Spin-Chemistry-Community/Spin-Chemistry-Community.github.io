@@ -40,9 +40,13 @@ Coming soon!
 
 ## 2024 - Kobe, Japan
 
+[Book of Abstracts](meetings/SCM_2024_abstracts.pdf)
+
 ![kobe Screenshot](assets/img/meetings/SCM_2024.png){:.tail width="500" height="500" loading="lazy"}
 
 ## 2022 - Evanston, USA
+
+[Book of Abstracts](meetings/SCM_2022_abstracts.pdf)
 
 ![evanston Screenshot](assets/img/meetings/SCM_2022.jpg){:.tail width="500" height="500" loading="lazy"}
 
