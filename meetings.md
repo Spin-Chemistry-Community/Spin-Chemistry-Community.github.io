@@ -36,7 +36,7 @@ Comming soon!
 
 ## 2024 - Kobe, Japan
 
-![kobe Screenshot](assets/img/meetings/SCM_2024.jpg){:.tail width="500" height="500" loading="lazy"}
+![kobe Screenshot](assets/img/meetings/SCM_2024.png){:.tail width="500" height="500" loading="lazy"}
 
 ## 2022 - Evanston, USA
 
