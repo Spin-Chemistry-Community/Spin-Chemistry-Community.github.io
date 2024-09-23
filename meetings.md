@@ -30,9 +30,13 @@ Tomakomai, Hokkaido, Japan in 1991. Since then, meetings have taken place more-o
 Collected abstracts of the Spin Chemistry Meetings, 1991-2019 were provided by 
 [Prof. Ulrich Steiner](mailto:ulrich.steiner@uni-konstanz.de), University of Konstanz.
 
+## 2028 - Leipzig, Germany
+
+Coming soon!
+
 ## 2026 - Padua, Italy
 
-Comming soon!
+Coming soon!
 
 ## 2024 - Kobe, Japan
 
