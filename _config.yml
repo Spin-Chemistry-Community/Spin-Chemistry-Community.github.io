@@ -54,14 +54,22 @@ menu:
    # url:               /example/
   #- title:             Documentation
    # url:               /docs/
-  - title:             Tutorials
-    url:               /tutorials/
-  - title:             Meetings
-    url:               /meetings/
   - title:             Committee
     url:               /committee/
   - title:             In Memoriam
     url:               /in_memoriam/
+  - title:             Meetings
+    url:               /meetings/
+  - title:             Software
+    url:               /software/
+  - title:             Tutorials
+    url:               /tutorials/
+  # - title:             Meetings
+  #   url:               /meetings/
+  # - title:             Committee
+  #   url:               /committee/
+  # - title:             In Memoriam
+  #   url:               /in_memoriam/
   - title: "Join our Discord server"
     url:   https://discord.io/spin-chemistry-community/
   - title: "Join us on Twitter"
