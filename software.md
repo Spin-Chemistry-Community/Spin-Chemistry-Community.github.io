@@ -37,12 +37,14 @@ In alphabetical order:
 
 Open-source toolbox in the proprietary software MATLAB.
 Useful for fitting and simulation EPR spectra.
+
 [EasySpin Website](https://easyspin.org/)
 
 #### Spinach
 
 Open-source toolbox in the propietary software MATLAB.
 Useful for simulating EPR and NMR spectra.
+
 [Spinach Website](https://spindynamics.org/?page_id=12)
 
 
@@ -54,6 +56,7 @@ In alphabetical order:
 
 Open-source software written in C++ in the Linux operating system.
 Useful for simulating radical pairs with sophisticated relaxation algorithms.
+
 [MolSpin Website](https://www.molspin.eu/)
 
 #### RadicalPy
@@ -61,6 +64,7 @@ Useful for simulating radical pairs with sophisticated relaxation algorithms.
 Open-source object-oriented software written in Python.
 Useful for learning spin chemistry and simulating experimental data.
 The software offers classical, semi-classical, and quantum simulation methodologies.
+
 [RadicalPy Website](https://radicalpy.readthedocs.io/en/latest/)
 
 
