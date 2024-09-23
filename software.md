@@ -31,31 +31,37 @@ Please join our [Discord server](https://discord.io/spin-chemistry-community/) t
 
 ### EPR / NMR
 
-EasySpin - open-source toolbox in the proprietary software MATLAB.
+In alphabetical order:
+
+#### EasySpin 
+
+Open-source toolbox in the proprietary software MATLAB.
 Useful for fitting and simulation EPR spectra.
+[EasySpin Website](https://easyspin.org/)
 
-[Website](https://easyspin.org/)
+#### Spinach
 
-Spinach - open-source toolbox in the propietary software MATlAB.
+Open-source toolbox in the propietary software MATLAB.
 Useful for simulating EPR and NMR spectra.
-
-[Website](https://spindynamics.org/?page_id=12)
+[Spinach Website](https://spindynamics.org/?page_id=12)
 
 
 ### Specific to Radical Pairs
 
 In alphabetical order:
 
-MolSpin - open-source software written in C++ in the Linux operating system.
+#### MolSpin
+
+Open-source software written in C++ in the Linux operating system.
 Useful for simulating radical pairs with sophisticated relaxation algorithms.
+[MolSpin Website](https://www.molspin.eu/)
 
-[Website](https://www.molspin.eu/)
+#### RadicalPy
 
-RadicalPy - Open-source object-oriented software written in Python.
+Open-source object-oriented software written in Python.
 Useful for learning spin chemistry and simulating experimental data.
 The software offers classical, semi-classical, and quantum simulation methodologies.
-
-[Website](https://radicalpy.readthedocs.io/en/latest/)
+[RadicalPy Website](https://radicalpy.readthedocs.io/en/latest/)
 
 
 
