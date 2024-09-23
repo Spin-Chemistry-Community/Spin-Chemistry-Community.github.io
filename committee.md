@@ -23,6 +23,8 @@ redirect_from:
 
 # International Spin Chemistry Committee
 
+In alphabetical order:
+
 ## Lewis M Antill (S. Korea) 
 
 [Research Group](https://lmantill.github.io/)
