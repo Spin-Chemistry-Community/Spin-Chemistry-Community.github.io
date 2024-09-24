@@ -28,16 +28,7 @@ This page is designed for those new and old to the field of spin chemistry.
 
 Please join our [Discord server](https://discord.io/spin-chemistry-community/) to ask questions and discuss topics with people from the field of spin chemistry.
 
-### Specific to Radical Pairs
-
-In alphabetical order:
-
-#### MolSpin
-
-Open-source software written in C++ in the Linux operating system.
-Useful for simulating radical pairs with sophisticated relaxation algorithms.
-
-[MolSpin website](https://www.molspin.eu/)
+### Specific to Radical / Triplet Pairs
 
 #### RadicalPy
 
@@ -46,6 +37,16 @@ Useful for learning spin chemistry and simulating experimental data.
 The software offers classical, semi-classical, and quantum simulation methodologies.
 
 [RadicalPy website](https://radicalpy.readthedocs.io/en/latest/)
+
+
+### General Spin Dynamics
+
+#### MolSpin
+
+Open-source software written in C++ in the Linux operating system.
+Useful for simulating general spin systems with sophisticated relaxation algorithms.
+
+[MolSpin website](https://www.molspin.eu/)
 
 
 ### EPR / NMR
