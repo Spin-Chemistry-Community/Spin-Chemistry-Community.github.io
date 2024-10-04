@@ -35,7 +35,7 @@ For more information, please visit [here](https://en.wikipedia.org/wiki/Spin_che
 
 ## Join us
 
-Please join our [Discord server](https://discord.io/spin-chemistry-community/) to ask questions and discuss topics with people from the field of spin chemistry.
+Please join our [Discord server](https://discord.gg/gwkztegE) to ask questions and discuss topics with people from the field of spin chemistry.
 
 
 
