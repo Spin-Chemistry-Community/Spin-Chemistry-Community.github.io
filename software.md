@@ -26,7 +26,7 @@ redirect_from:
 
 This page is designed for those new and old to the field of spin chemistry.
 
-Please join our [Discord server](https://discord.gg/gwkztegE) to ask questions and discuss topics with people from the field of spin chemistry.
+Please join our [Discord server](https://discord.gg/NZdjhFS3Es) to ask questions and discuss topics with people from the field of spin chemistry.
 
 ### Specific to Radical / Triplet Pairs
 
