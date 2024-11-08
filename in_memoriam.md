@@ -23,6 +23,36 @@ redirect_from:
 
 # In Memoriam
 
+
+## Alexander Pines
+
+22 June 1945 – 1 November 2024
+
+![Pines Screenshot](assets/img/in_memoriam/alexander_pines.jpg){:.tail width="200" height="300" loading="lazy"}
+
+[Alexander Pines (1945 – 2024)](https://www.chemistryviews.org/alexander-pines-1945-2024/)
+
+[Alex Pines 1945-2024](https://ismar.org/2024/11/06/alex-pines-1945-2024/)
+
+
+## Noboru Hirota
+
+1936 – 28 October 2024
+
+![Hirota Screenshot](assets/img/in_memoriam/noboru_hirota.jpg){:.tail width="200" height="300" loading="lazy"}
+
+
+## Klaus Möbius
+
+1936 – 18 October 2024
+
+![Moebius Screenshot](assets/img/in_memoriam/klaus_moebius.png){:.tail width="200" height="300" loading="lazy"}
+
+[On the Passing of Emeritus Prof. Dr. Klaus Möbius](https://www.physik.fu-berlin.de/en/fachbereich/nachruf/nachruf-klaus-moebius.html)
+
+[Klaus Möbius, 1936 – 2024](https://ismar.org/2024/11/05/klaus-mobius-1936-2024/)
+
+
 ## Konstantin (Kostya) L Ivanov
 
 10 January 1977 – 05 March 2021

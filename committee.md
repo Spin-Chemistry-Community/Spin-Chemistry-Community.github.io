@@ -103,7 +103,7 @@ In alphabetical order:
 
 ![naaman Screenshot](assets/img/committee/ron_naaman.jpg){:.tail width="200" height="300" loading="lazy"}
 
-## Christiane Timmel (Oxford, UK)
+## Christiane R Timmel (Oxford, UK)
 
 [Research Group](http://timmel.chem.ox.ac.uk/)
 
@@ -115,7 +115,7 @@ In alphabetical order:
 
 ![valentin Screenshot](assets/img/committee/marilena_di_valentin.jpg){:.tail width="300" height="400" loading="lazy"}
 
-## Michael Wasielewski (Evanston, USA)
+## Michael R Wasielewski (Evanston, USA)
 
 [Research Group](https://sites.northwestern.edu/wasielewski/)
 
@@ -178,7 +178,3 @@ Daniel P Weitekamp (Pasadena, USA)
 Markus Wohlgenannt (Iowa City, USA)
 
 Seigo Yamauchi (Sendai, Japan)
-
-
-
-
