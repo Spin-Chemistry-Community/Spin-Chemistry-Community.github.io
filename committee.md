@@ -27,7 +27,7 @@ In alphabetical order:
 
 ## Lewis M Antill (Suwon, S. Korea) 
 
-[Research Group](https://lmantill.github.io/)
+[Research Group](https://qubelab.github.io/)
 
 ![antill Screenshot](assets/img/committee/lewis_antill.jpg){:.tail width="200" height="300" loading="lazy"}
 
