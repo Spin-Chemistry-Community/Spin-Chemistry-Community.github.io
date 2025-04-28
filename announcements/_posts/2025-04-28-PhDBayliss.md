@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PhD position: spin-based quantum sensors from chemically synthesised molecules
+title: PhD position - spin-based quantum sensors from chemically synthesised molecules
 description: >
   PhD position: spin-based quantum sensors from chemically synthesised molecules
 sitemap: false
