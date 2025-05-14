@@ -61,12 +61,6 @@ In alphabetical order:
 
 ![forbes Screenshot](assets/img/committee/malcolm_forbes.jpg){:.tail width="200" height="300" loading="lazy"}
 
-## Peter J Hore, Chairman (Oxford, UK)
-
-[Research Group](http://hore.chem.ox.ac.uk/index.shtml)
-
-![hore Screenshot](assets/img/committee/peter_hore.jpg){:.tail width="200" height="300" loading="lazy"}
-
 ## Yasuhiro Kobori (Kobe, Japan)
 
 [Research Group](http://www2.kobe-u.ac.jp/~ykobori/frame.html)
@@ -148,6 +142,8 @@ Y John I'Haya, Founder Chairman (Tokyo, Japan)
 Hisaharu Hayashi (Wako, Japan)
 
 Arnold J Hoff (Leiden, Netherlands)
+
+Peter J Hore, Chairman (Oxford, UK)
 
 Konstantin L Ivanov (Novosibirsk, Russia)
 
