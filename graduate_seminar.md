@@ -35,7 +35,7 @@ Meeting is held [here](https://riken-jp.zoom.us/j/96309792382?pwd=9rbcZYgA7yfRPI
 
 If you would like to give a talk or require further information, please contact Lewis M. Antill (lewismantill@gmail.com)
 
-![poster](assets/img/SCGSS_poster.jpg){:.tail width="400" height="600" loading="lazy"}
+<!-- ![poster](assets/img/SCGSS_poster.jpg){:.tail width="400" height="600" loading="lazy"} -->
 
 ## Ana Štuhec (University of Oxford, UK) - January 15th, 2025
 
