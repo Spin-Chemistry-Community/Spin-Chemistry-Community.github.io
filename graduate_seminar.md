@@ -28,15 +28,14 @@ The aim of this series is to provide the opportunity for graduate students to pr
 We would like to invite graduate students to participate in the series by giving a 20 min presentation (+10 min Q&A).
 
 3rd Wednesday of the month
+
 Meeting is held [here](https://riken-jp.zoom.us/j/96309792382?pwd=9rbcZYgA7yfRPINS2MSsEXkoUQq9aJ.1)
 
 07:00 PST | 10:00 EST | 14:00 GMT | 16:00 CET | 22:00 CST | 23:00 KST
 
 If you would like to give a talk or require further information, please contact Lewis M. Antill (lewismantill@gmail.com)
 
-
-
-![poster](assets/img/SCGSS_poster){:.tail width="200" height="300" loading="lazy"}
+![poster](assets/img/SCGSS_poster.jpg){:.tail width="200" height="300" loading="lazy"}
 
 ## Ana Štuhec (University of Oxford, UK) - January 15th, 2025
 
