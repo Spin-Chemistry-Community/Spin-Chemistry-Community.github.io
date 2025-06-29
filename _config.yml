@@ -41,7 +41,7 @@ logo:                  /assets/img/spin2.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  #name:              Lewis M Antill
+  #name:              Lewis M. Antill
   #email:             lewismantill@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:            https://twitter.com/SpinChemistry
@@ -88,7 +88,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2022 Lewis M Antill. All rights reserved.
+copyright:             © 2022 Lewis M. Antill. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
