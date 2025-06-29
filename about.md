@@ -31,7 +31,7 @@ redirect_from:
 ![spin Screenshot](assets/img/RPM scheme.jpg){:.tail widto="1000" height="500" loading="lazy"}
 
 Broadly defined, Spin Chemistry deals with the effects of electron and nuclear spins in particular, and magnetic interactions in general, on the rates and yields of chemical reactions.
-Over the years, numerous areas of science have been influenced by spin chemistry, such areas are summarised below (curated by Prof. P. J. Hore, University of Oxford).
+Over the years, numerous areas of science have been influenced by spin chemistry and are summarised below (curated by Prof. P. J. Hore, University of Oxford).
 
 ![areas Screenshot](assets/img/spinchemareas.png){:.tail width="1000" height="500" loading="lazy"}
 
