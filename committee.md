@@ -25,7 +25,7 @@ redirect_from:
 
 In alphabetical order:
 
-## Lewis M Antill (Suwon, S. Korea) 
+## Lewis M. Antill (Suwon, S. Korea) 
 
 [Research Group](https://qubelab.github.io/)
 
@@ -55,7 +55,7 @@ In alphabetical order:
 
 ![fedin Screenshot](assets/img/committee/matvey_fedin.jpg){:.tail width="200" height="300" loading="lazy"}
 
-## Malcolm D E Forbes (Bowling Green, USA)
+## Malcolm D. E. Forbes (Bowling Green, USA)
 
 [Research Group](https://www.bgsu.edu/arts-and-sciences/chemistry/faculty/malcolm-forbes.html)
 
@@ -97,7 +97,7 @@ In alphabetical order:
 
 ![naaman Screenshot](assets/img/committee/ron_naaman.jpg){:.tail width="200" height="300" loading="lazy"}
 
-## Christiane R Timmel (Oxford, UK)
+## Christiane R. Timmel (Oxford, UK)
 
 [Research Group](http://timmel.chem.ox.ac.uk/)
 
@@ -109,7 +109,7 @@ In alphabetical order:
 
 ![valentin Screenshot](assets/img/committee/marilena_di_valentin.jpg){:.tail width="300" height="400" loading="lazy"}
 
-## Michael R Wasielewski (Evanston, USA)
+## Michael R. Wasielewski (Evanston, USA)
 
 [Research Group](https://sites.northwestern.edu/wasielewski/)
 
@@ -123,15 +123,15 @@ In alphabetical order:
 
 ## Previous committee members
 
-Frank J Adrian (Olney, USA)
+Frank J. Adrian (Olney, USA)
 
-Elena G Bagryanskaya (Novosibirsk, Russia)
+Elena G. Bagryanskaya (Novosibirsk, Russia)
 
 Samita Basu (Kolkata, India)
 
 Klaus-Peter Dinse (Darmstadt, Germany)
 
-Sergei A Dzuba (Novosibirsk, Russia)
+Sergei A. Dzuba (Novosibirsk, Russia)
 
 Art van der Est (St. Catharines, Canada)
 
@@ -141,35 +141,35 @@ Y John I'Haya, Founder Chairman (Tokyo, Japan)
 
 Hisaharu Hayashi (Wako, Japan)
 
-Arnold J Hoff (Leiden, Netherlands)
+Arnold J. Hoff (Leiden, Netherlands)
 
-Peter J Hore, Chairman (Oxford, UK)
+Peter J. Hore, Chairman (Oxford, UK)
 
-Konstantin L Ivanov (Novosibirsk, Russia)
+Konstantin L. Ivanov (Novosibirsk, Russia)
 
 Gerd Kothe (Freiburg, Germany)
 
 Haim Levanon (Jerusalem, Israel)
 
-Keith A Mclauchlan (Oxford, UK)
+Keith A. Mclauchlan (Oxford, UK)
 
-Yuri N Molin (Novosibirsk, Russia)
+Yuri N. Molin (Novosibirsk, Russia)
 
 Hisao Murai (Shizuoka, Japan)
 
-James R Norris (Chicago, USA)
+James R. Norris (Chicago, USA)
 
 Henning Paul (Zürich, Switzerland)
 
-Ulrich E Steiner, Chairman (Konstanz, Germany)
+Ulrich E. Steiner, Chairman (Konstanz, Germany)
 
-Renad Z Sagdeev (Novosibirsk, Russia)
+Renad Z. Sagdeev (Novosibirsk, Russia)
 
 Yoshifumi Tanimoto (Hiroshima, Japan)
 
 Shozo Tero-Kubota (Sendai, Japan)
 
-Daniel P Weitekamp (Pasadena, USA)
+Daniel P. Weitekamp (Pasadena, USA)
 
 Markus Wohlgenannt (Iowa City, USA)
 
