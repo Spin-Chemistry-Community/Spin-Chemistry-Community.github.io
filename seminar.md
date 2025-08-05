@@ -21,15 +21,15 @@ redirect_from:
 - Table of Contents
 {:toc .large-only}
 
-# Spin Chemistry Graduate Seminar Series
+# Spin Chemistry Seminar Series
 
-The aim of this series is to provide the opportunity for graduate students to present their research, improve their presentation skills, practice presenting in English (if English is not your first language), and to gain further experience in discussing their work with researchers outside of their group. 
+The aim of this series is to provide the opportunity for students and postdocs to present their research, improve their presentation skills, practice presenting in English (if English is not your first language), and to gain further experience in discussing their work with researchers outside of their group. 
 
-We would like to invite graduate students to participate in the series by giving a 20 min presentation (+10 min Q&A).
+We would like to invite students and postdocs to participate in the series by giving a 20 min presentation (+10 min Q&A).
 
 3rd Wednesday of the month
 
-Meeting is held [here](https://riken-jp.zoom.us/j/96309792382?pwd=9rbcZYgA7yfRPINS2MSsEXkoUQq9aJ.1)
+Meetings are held [here](https://riken-jp.zoom.us/j/96309792382?pwd=9rbcZYgA7yfRPINS2MSsEXkoUQq9aJ.1)
 
 07:00 PST | 10:00 EST | 14:00 GMT | 16:00 CET | 22:00 CST | 23:00 KST
 
