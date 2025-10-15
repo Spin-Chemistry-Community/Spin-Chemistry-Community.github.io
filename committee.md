@@ -115,7 +115,7 @@ In alphabetical order:
 
 ![wasielewski Screenshot](assets/img/committee/michael_wasielewski.jpg){:.tail width="200" height="300" loading="lazy"}
 
-## Stefan Weber (Freiburg, Germany)
+## Stefan Weber, Chairman (Freiburg, Germany)
 
 [Research Group](https://www.radicals.uni-freiburg.de/de/ak/weber)
 

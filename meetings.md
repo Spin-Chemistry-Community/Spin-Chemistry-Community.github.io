@@ -36,7 +36,9 @@ Coming soon!
 
 ## 2026 - Padua, Italy
 
-Coming soon!
+The 19th Spin Chemistry Meeting will be held in Padua, Italy on the 20th to 24th September, 2026.
+
+Click [here](https://research.chimica.unipd.it/SCM2026/) for more details.
 
 ## 2024 - Kobe, Japan
 
