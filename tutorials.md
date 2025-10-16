@@ -29,6 +29,11 @@ This page is designed for those new to the field of spin chemistry.
 Please join our [Discord server](https://discord.gg/NZdjhFS3Es) to ask questions and discuss topics with people from the field of spin chemistry.
 
 
+### Jupyter Notebooks (coding in Python)
+
+[Introduction to Spin Chemistry with RadicalPy](https://github.com/Spin-Chemistry-Labs/radicalpy/tree/main/examples/tutorials)
+These tutorials cover electrons, spins, magnetic moments, the Zeeman effect, Hyperfine interactions, J-coupling, dipolar coupling, chemical kinetics, molecular motion, spin Hamiltonians, density matrices, time evolution, kinetic and relaxation superoperators, and more.
+
 ### Books
 
 In alphabetical (author) order:
