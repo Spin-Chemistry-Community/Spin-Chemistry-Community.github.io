@@ -24,7 +24,7 @@ Two PhD Positions in the Lambert Group, Germany
 
 ## Two PhD Positions in the Lambert Group, Germany
 
-The research group of Professor Christoph Lambert is offering two PhD positions for curious and highly motivated students. The successful candidates will work on the synthesis and physical characterisation (steady-state and time-resolved optical spectroscopy, electrochemistry) of *novel boron-containing molecular compounds with biradical or charge-transfer properties with an emphasis on spin chemistry*.
+The research group of Professor Christoph Lambert is offering two PhD positions for curious and highly motivated students. The successful candidates will work on the synthesis and physical characterisation (steady-state and time-resolved optical spectroscopy, electrochemistry) of **novel boron-containing molecular compounds with biradical or charge-transfer properties with an emphasis on spin chemistry**.
 These projects are part of the recently awarded Collaborative Research Centre “BORONPro” (SFB 1762) in Würzburg, which promotes close collaboration between theoretical and experimental researchers.
 
 **Requirements**
@@ -48,6 +48,7 @@ We offer: An international, collaborative and friendly research environment with
 - A list of academic referees who can provide references
 
 **Contact**: Prof. Dr. Christoph Lambert [christoph.lambert@uni-wuerzburg.de](mailto:christoph.lambert@uni-wuerzburg.de)
+
 [Lambert Group](https://www.chemie.uni-wuerzburg.de/oc/lambert-group/)
 
 
