@@ -25,7 +25,7 @@ redirect_from:
 
 In alphabetical order:
 
-## Lewis M. Antill (Suwon, S. Korea) 
+## Lewis M. Antill (Pohang, S. Korea) 
 
 [Research Group](https://qubelab.github.io/)
 
