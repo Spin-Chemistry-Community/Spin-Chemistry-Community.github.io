@@ -29,4 +29,3 @@ We are looking for a postdoc to perform advanced optically detected magnetic res
 [Full details](https://www.jobs.gla.ac.uk/job/postdoctoral-research-associate-in-quantum-sensing-with-molecular-spin-qubits-6000892).
 
 
-
