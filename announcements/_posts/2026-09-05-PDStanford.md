@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Postdoc Position in Radical Pairs and Magnetic Field Effects in Proteins, Stanford / SLAC National Lab, California
+description: >
   Postdoc Position in Radical Pairs and Magnetic Field Effects in Proteins, Stanford / SLAC National Lab, California
 sitemap: false
 hide_last_modified: true
