@@ -25,8 +25,11 @@ Postdoc Position in Quantum Sensing with Molecular Spin Qubits, University of Gl
 ## Postdoc Position in Quantum Sensing with Molecular Spin Qubits, University of Glasgow
 
 We are looking for a postdoc to perform advanced optically detected magnetic resonance experiments on molecular spins, developing them as quantum probes for biosensing and nanoscale magnetic resonance. 
+
 Up to 3 years. 
+
 Deadline: 17 September 2026. 
+
 Informal enquiries welcome to: Dr. Sam Bayliss [sam.bayliss@glasgow.ac.uk](mailto:sam.bayliss@glasgow.ac.uk)
 
 [Full details](https://www.jobs.gla.ac.uk/job/postdoctoral-research-associate-in-quantum-sensing-with-molecular-spin-qubits-6000892).

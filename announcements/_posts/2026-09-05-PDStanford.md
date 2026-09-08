@@ -25,5 +25,7 @@ Postdoc Position in Radical Pairs and Magnetic Field Effects in Proteins, Stanfo
 ## Postdoc Position in Radical Pairs and Magnetic Field Effects in Proteins, Stanford / SLAC National Lab, California
 
 We are looking for a postdoc to work on radical pairs and magnetic field effects in proteins. 
+
 Our recent paper: [Nature](https://www.nature.com/articles/s41586-026-10282-4)
+
 Please contact Shaun C. Burd at [scburd@stanford.edu](mailto:scburd@stanford.edu)
